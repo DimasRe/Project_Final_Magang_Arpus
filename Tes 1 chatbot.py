@@ -4,7 +4,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.prompts import ChatPromptTemplate
 
 # API Key Gemini Anda
-API_KEY = "AIzaSyAtdTs4aVol1viAQlPz1lthFUsCisGPQj0"
+API_KEY = ""
 
 # Fungsi chat Gemini
 def chat(contexts, history, question):
